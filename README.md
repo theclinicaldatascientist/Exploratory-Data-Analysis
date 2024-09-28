@@ -49,7 +49,7 @@ This project provides data-driven insights into vehicle sales and market dynamic
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to Dakota Smith at [your-email@example.com].
+For any questions or feedback, feel free to reach out to Dakota Smith at ddsmith6@wisc.edu.
 
 ---
 
